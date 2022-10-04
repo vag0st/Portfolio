@@ -1,43 +1,42 @@
 # Packages
 
-implement contact form
+implement contact form:
 
-npm i @emailjs/browser
+`npm i @emailjs/browser`
 
-font icons
+font icons:
 
-npm i @fortawesome/free-brands-svg-icons
+`npm i @fortawesome/free-brands-svg-icons`
 
-navigation left side
+navigation left side:
 
-npm i @fortawesome/free-solid-svg-icons
+`npm i @fortawesome/free-solid-svg-icons`
+`npm i @fortawesome/react-fontawesome`
 
-npm i @fortawesome/react-fontawesome
+css lib animating obj and fonts:
 
-css lib animating obj and fonts
+`npm i animate.css`
 
-npm i animate.css
+more advanced animations:
 
-more advanced animations
+`npm i gsap-trial`
 
-npm i gsap-trial
+packman in between packes:
 
-packman in between packes
+`npm i loaders.css`
 
-npm i loaders.css
+maps:
 
-maps
+`npm i react-leaflet`
 
-npm i react-leaflet
+loaders in react:
 
-loaders in react
+`npm i react-loaders`
 
-npm i react-loaders
+navigate through the pages in app:
 
-navigate through the pages in app
+`npm i react-router-dom`
 
-npm i react-router-dom
+styling:
 
-styling
-
-npm i sass
+`npm i sass`
